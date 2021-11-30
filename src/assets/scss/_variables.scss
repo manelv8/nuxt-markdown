@@ -1,0 +1,40 @@
+// Set your colors
+$primary: #3f51b5;
+$primary-invert: findColorInvert($primary);
+$family-primary: 'Montserrat', sans-serif;
+$success: #36db0d;
+$info: #d81b60;
+$warning: #ffff00;
+$light: #efefef;
+$black: #000;
+$skeleton-color: #f2f2f2;
+
+// Sizes
+$size-1: 3.5rem; // 28pt
+$size-2: 3rem; // 24pt
+$size-3: 2.5rem; // 20pt
+$size-4: 2rem; // 16pt
+$size-5: 1.75rem; // 14pt
+$size-6: 1rem; //8pt
+// $size-7: 0.75rem; 6pt
+
+.dark-mode {
+  body {
+    background-color: $black;
+    color: $warning;
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      color: $warning;
+      border-color: $warning;
+    }
+
+    strong {
+      color: $warning;
+    }
+  }
+}

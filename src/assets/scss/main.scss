@@ -1,0 +1,96 @@
+// Import Montserrat font (regular, medium, italic, semibold)
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;1,300;1,400;1,500;1,600&display=swap');
+// Import Bulma's core
+@import '~bulma/sass/utilities/_all';
+@import './variables';
+
+// Setup $colors to use as bulma classes (e.g. 'is-twitter')
+$colors: (
+  'white': (
+    $white,
+    $black,
+  ),
+  'black': (
+    $black,
+    $white,
+  ),
+  'light': (
+    $light,
+    $light-invert,
+  ),
+  'dark': (
+    $dark,
+    $dark-invert,
+  ),
+  'primary': (
+    $primary,
+    $primary-invert,
+  ),
+  'info': (
+    $info,
+    $info-invert,
+  ),
+  'success': (
+    $success,
+    $success-invert,
+  ),
+  'warning': (
+    $warning,
+    $warning-invert,
+  ),
+  'danger': (
+    $danger,
+    $danger-invert,
+  ),
+);
+
+// Links
+$link: $primary;
+$link-invert: $primary-invert;
+$link-focus-border: $primary;
+
+// Lazy load skeleton
+$skeleton-background: linear-gradient(
+  90deg,
+  $skeleton-color 25%,
+  rgba($skeleton-color, 0.5) 50%,
+  $skeleton-color 75%
+);
+
+// Navbar shadow
+$navbar-box-shadow-size: 0px 4px 4px 0px;
+$navbar-box-shadow-color: rgba(0, 0, 0, 0.25);
+$navbar-background-color: $primary;
+
+// sidebar color and shadow
+$sidebar-box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+$sidebar-background: #fff;
+$sidebar-mobile-breakpoint: $desktop;
+
+// Components
+$card-header-shadow: unset;
+
+// spacing
+$spacing-shortcuts: (
+  'margin': 'mg',
+);
+$spacing-horizontal: 'h';
+$spacing-vertical: 'v';
+$spacing-values: (
+  'small': 20px,
+  'medium': 30px,
+  'large': 40px,
+);
+
+// modal-z-index
+$modal-z: 120;
+
+// footer-color
+$footer-background-color: #fff;
+
+// Font
+$body-size: 8px;
+
+// Import Bulma and Buefy styles
+@import '~bulma';
+@import '~buefy/src/scss/buefy';

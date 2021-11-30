@@ -1,0 +1,2291 @@
+[
+    {
+      "title": "Tópico 01",
+      "slug": "topico-01",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-01-o-que-é-medir-a-área-de-uma-figura-plana"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-01-o-que-%C3%A9-medir-a-%C3%A1rea-de-uma-figura-plana",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 01: O que é medir a área de uma figura plana?"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-01",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.564Z",
+      "updatedAt": "2020-10-29T17:05:34.565Z"
+    },
+    {
+      "title": "Exercícios Resolvidos",
+      "slug": "exercicios-resolvidos",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "exercícios--hora-de-praticar"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#exerc%C3%ADcios--hora-de-praticar",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Exercícios | Hora de Praticar!"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/exercicios-resolvidos",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.564Z",
+      "updatedAt": "2020-10-29T17:05:34.564Z"
+    },
+    {
+      "title": "Tópico 05",
+      "slug": "topico-05",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-05-área-dos-triângulos-retângulos"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-05-%C3%A1rea-dos-tri%C3%A2ngulos-ret%C3%A2ngulos",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 05: Área dos triângulos retângulos"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-05",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.575Z",
+      "updatedAt": "2020-10-29T17:05:34.575Z"
+    },
+    {
+      "title": "Tópico 03",
+      "slug": "topico-03",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-03-área-de-um-quadrado-de-lado-arbitrário"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-03-%C3%A1rea-de-um-quadrado-de-lado-arbitr%C3%A1rio",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 03: Área de um quadrado de lado arbitrário"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-03",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.574Z",
+      "updatedAt": "2020-10-29T17:05:34.574Z"
+    },
+    {
+      "title": "Tópico 02",
+      "slug": "topico-02",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-02-unidade-de-medida-de-área"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-02-unidade-de-medida-de-%C3%A1rea",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 02: Unidade de medida de área"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-02",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.573Z",
+      "updatedAt": "2020-10-29T17:05:34.574Z"
+    },
+    {
+      "title": "Tópico 04",
+      "slug": "topico-04",
+      "answered": "false",
+      "toc": [
+        
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-04-área-dos-retângulos"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-04-%C3%A1rea-dos-ret%C3%A2ngulos",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 04: Área dos retângulos"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-04",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.575Z",
+      "updatedAt": "2020-10-29T17:05:34.575Z"
+    },
+    {
+      "title": "Components",
+      "slug": "components",
+      "answered": "false",
+      "questionTitle": "Seja x e y duas grandezas inversamente proporcionais. Se x sofre um acréscimo de 25%, o decréscimo percentual sofrido por y é:",
+      "multiselectOptions": [
+        "20%",
+        "22%",
+        "24%",
+        "25%"
+      ],
+      "correctOption": [
+        "20%"
+      ],
+      "toc": [
+        {
+          "id": "sub-título",
+          "depth": 2,
+          "text": "Sub-título"
+        },
+        {
+          "id": "links",
+          "depth": 2,
+          "text": "Links"
+        },
+        {
+          "id": "buttons",
+          "depth": 2,
+          "text": "Buttons"
+        },
+        {
+          "id": "images",
+          "depth": 2,
+          "text": "Images"
+        }
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "título"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%ADtulo",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Título"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "sub-título"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#sub-t%C3%ADtulo",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Sub-título"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "quote",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nEu sou uma citação\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "collapse",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n "
+              },
+              {
+                "type": "element",
+                "tag": "option-collapse",
+                "props": {
+                  "title": "Collapse",
+                  "icon": "solucao"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "quote",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "Eu sou uma citação"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n "
+              },
+              {
+                "type": "element",
+                "tag": "option-collapse",
+                "props": {
+                  "title": "Collapse 2",
+                  "icon": "solucao"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-card",
+            "props": {
+              "title": "Card"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "p",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-card",
+            "props": {
+              "title": "Card Info",
+              "icon": "solucao",
+              "info": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "p",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\nLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              },
+              {
+                "type": "element",
+                "tag": "quote",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "Eu sou uma citação"
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "links"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#links",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Links"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-link",
+            "props": {
+              "link": "https://www.youtube.com/"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n\nLink\n\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n\n\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-link",
+            "props": {
+              "link": "https://www.youtube.com/"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n\nLorem ipsum\n\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "buttons"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#buttons",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Buttons"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "left": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Left\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "right": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Right\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "light": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "light": "",
+              "left": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light Left\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "light": "",
+              "right": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light Right\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true,
+              "left": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Left\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true,
+              "right": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Right\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true,
+              "light": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true,
+              "light": "",
+              "left": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light Left\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-button",
+            "props": {
+              "disabled": true,
+              "light": "",
+              "right": ""
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\nButton Light Right\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-exercise-radio",
+            "props": {
+              "title": "Questão 01 - (ENEM 2019, Caderno 5 - Amarelo, Segundo Dia,\nQuestão 147)",
+              ":question-title": "questionTitle",
+              ":options": "multiselectOptions",
+              ":correct-option": "correctOption"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "images"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#images",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Images"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "https://bulma.io/images/placeholders/128x128.png",
+              "alt": "oi"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-pagination",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/components",
+      "extension": ".md",
+      "createdAt": "2020-11-12T17:28:43.157Z",
+      "updatedAt": "2020-11-12T18:33:36.038Z"
+    },
+    {
+      "title": "Tópico 06",
+      "slug": "topico-06",
+      "answered": "false",
+      "toc": [
+        {
+          "id": "polígonos-quaisquer",
+          "depth": 2,
+          "text": "Polígonos quaisquer"
+        },
+        {
+          "id": "fórmula-de-herão",
+          "depth": 2,
+          "text": "Fórmula de Herão"
+        },
+        {
+          "id": "dedução-da-fórmula-de-herão",
+          "depth": 2,
+          "text": "Dedução da Fórmula de Herão"
+        },
+        {
+          "id": "leitura-complementar",
+          "depth": 2,
+          "text": "Leitura Complementar"
+        }
+      ],
+      "body": {
+        "type": "root",
+        "children": [
+          {
+            "type": "element",
+            "tag": "h1",
+            "props": {
+              "id": "tópico-06-área-de-polígonos-com-n-lados"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#t%C3%B3pico-06-%C3%A1rea-de-pol%C3%ADgonos-com-n-lados",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Tópico 06: Área de Polígonos com n lados"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Vamos obter no próximo exemplo a fórmula da área do polígono regular de n lados, lembrando que num polígono regular os comprimentos dos lados assim como os ângulos internos formados por lados adjacentes são iguais entre si."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "collapse",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n "
+              },
+              {
+                "type": "element",
+                "tag": "option-collapse",
+                "props": {
+                  "title": "Exemplo 06",
+                  "icon": "exemplo"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n Área do polígono regular de n lados\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n Um polígono regular de n > 3 lados pode ser dividido em n triângulos idênticos trançando os segmentos que unem o centro do polígono a seus vértices (veja a Figura 9.8, onde n = 9). Veja que cada um desses triângulos é isósceles e possui mesma área. O apótema de um polígono regular é a distância entre o centro do polígono e (o ponto médio de qualquer) um de seus lados. Na Figura 9.8, veja que o apótema é o segmento tracejado e é igual à medida da altura de um dos triângulos mencionados acima. Chamando de a o apótema ℓ a medida do lado do polígono, temos que a área de cada triângulo é aℓ/2. Assim, a área do polígono é . Por ﬁm, perceba que nℓ é o perímetro do polígono, de forma que obtemos o seguinte resultado.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "qed-image",
+                    "props": {
+                      "src": "/images/exemplo-6.png",
+                      "alt": "circulo com quadrado dentro."
+                    },
+                    "children": [
+                      
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "quote",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n "
+                      },
+                      {
+                        "type": "element",
+                        "tag": "strong",
+                        "props": {
+                          
+                        },
+                        "children": [
+                          {
+                            "type": "text",
+                            "value": "Área de um polígono regular"
+                          }
+                        ]
+                      },
+                      {
+                        "type": "element",
+                        "tag": "br",
+                        "props": {
+                          
+                        },
+                        "children": [
+                          
+                        ]
+                      },
+                      {
+                        "type": "text",
+                        "value": "\n É igual à metade do produto de seu apótema pelo perímetro.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "É comum chamar a metade do perímetro de semiperímetro. Dessa forma, podemos também dizer que a área de um polígono regular é igual ao produto do apótema pelo semiperímetro."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "polígonos-quaisquer"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#pol%C3%ADgonos-quaisquer",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Polígonos quaisquer"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Não existe fórmula fechada para a área de um polígono arbitrário, mas existe um método que pode ser empregado quando é possível calcular as distâncias entre quaisquer dois vértices da ﬁgura: todo polígono pode ser repartido em triângulos disjuntos, trançando alguns dos segmentos que ligam vértices do polígono (chamamos isso de “triangularizar o polígono”). Daí, podemos calcular a área do polígono somando as áreas desses triângulos (que, por sua vez, podem ser calculadas de diferentes maneiras, a depender de quais informações temos disponíveis)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Esse método é ilustrado na Figura seguinte:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "/images/poligonos-quaisquer.png",
+              "alt": "poligonos quaisquer."
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "quote",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n O polígono ABCDEFGH é a união dos triângulos ABC, ACH, CGH, CFG, CDF e DEF e a área do polígono é a soma das áreas desses triângulos. A triangularização de um polígono não é única. Por exemplo, poderíamos substituir o segmento DF por CE e obter outra triangularização.\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Na antiguidade, os agrimensores provavelmente utilizavam o método da triangularização do polígono para determinar a área das propriedades rurais. Inicialmente aproximavam os terrenos por polígonos irregulares, que decom- punham em triângulos (eles conheciam técnicas para medir os lados desses triângulos). Calculavam as suas áreas, possivelmente pela chamada fórmula de Herão, conhecida já na antiguidade. Essa fórmula fornece uma maneira alternativa de calcular áreas de triângulos tendo conhecimento apenas das medidas de seus três lados, evitando a necessidade de calcular a medida de uma altura. Se os lados possuem medidas a, b e c, primeiro calcula-se o se- miperímetro, que é p = (a + b + c)/2 e, então, a área do triângulo é dada por:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "/images/ppapbpc.png",
+              "alt": "formula."
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "A área do terreno, então, é a soma das áreas desses triângulos."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Embora a dedução da fórmula de Herão não faça parte do conteúdo didático do ensino médio, apresentamos uma seção com a dedução algébrica da fórmula de Herão para aqueles alunos que tenham curiosidade de conhecer sua origem."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "quote",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n Você consegue imaginar por que os gregos antigos chamavam os geômetras egípcios do seu tempo de “esticadores de corda”? Pense em como os egípcios delimitavam os terrenos e os dividiam em triângulos com os recursos limitados que dispunham na época.\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "No mundo moderno, é possível aproximar a área de um terreno usando um GPS para marcar as coordenadas cartesianas dos vértices de um polígono que delimita (ainda que de forma aproximada) o contorno do terreno. De posse dessas coordenadas é possível calcular as distâncias entre os pontos (pelo teorema de Pitágoras, como explicado no Módulo 11) e de posse dos comprimentos dos lados dos triângulos é possível aplicar a fórmula de Herão para obter suas áreas. Mas, de posse das coordenadas dos vértices, há outras maneiras ainda mais eﬁcientes de calcular a área do polígono que fogem do escopo deste módulo (por exemplo, usando matrizes). Em geral, esses cálculos são efetuados por aplicativos cujo funcionamento interno é ignorado pelo usuário ﬁnal."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "fórmula-de-herão"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#f%C3%B3rmula-de-her%C3%A3o",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Fórmula de Herão"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "/images/formula-de-herao.png",
+              "alt": "formula."
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "collapse",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n "
+              },
+              {
+                "type": "element",
+                "tag": "option-collapse",
+                "props": {
+                  "title": "Exercício 01",
+                  "icon": "exercicio"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "qed-image",
+                    "props": {
+                      "src": "/images/12-16-22.png",
+                      "alt": "formula."
+                    },
+                    "children": [
+                      
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n a) Calcule a área desse triângulo.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n b) Calcule a altura desse triângulo referente a cada uma das bases.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n "
+              },
+              {
+                "type": "element",
+                "tag": "option-collapse",
+                "props": {
+                  "title": "Solução",
+                  "icon": "solucao"
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  },
+                  {
+                    "type": "element",
+                    "tag": "p",
+                    "props": {
+                      
+                    },
+                    "children": [
+                      {
+                        "type": "text",
+                        "value": "\n Lorem ipsum dolor sit amet, consectetur adipiscing elit.\n "
+                      }
+                    ]
+                  },
+                  {
+                    "type": "text",
+                    "value": "\n "
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "dedução-da-fórmula-de-herão"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#dedu%C3%A7%C3%A3o-da-f%C3%B3rmula-de-her%C3%A3o",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Dedução da Fórmula de Herão"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "O desafio é apresentar uma prova para a fórmula de Herão mostrando que ela realmente calcula a área do triângulo. Apresentaremos uma prova algébrica com muitos cálculos que deixamos aqui para satisfazer a curiosidade dos alunos que se perguntarem por que a fórmula funciona."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Como conhecemos a fórmula da área do triângulo como , o desafio é calcular a altura h em função dos lados do triângulo."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "/images/abc.png",
+              "alt": "formula."
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Ao traçarmos a altura em relação à base c, obtemos dois triângulos retângulos de onde tiramos:"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "b2 = h2 + d2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "a2 = h2 + (c – d)2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Daí,"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "a2 – b2 = (c – d)2 – d2"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "strong",
+                "props": {
+                  
+                },
+                "children": [
+                  {
+                    "type": "text",
+                    "value": "a2 – b2 = c2 – 2cd"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Daí,"
+              },
+              {
+                "type": "element",
+                "tag": "qed-image",
+                "props": {
+                  "src": "/images/herao-1.png",
+                  "alt": "formula."
+                },
+                "children": [
+                  
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Na dedução da fórmula, partimos do fato de que h2= b2 – d2 e usamos repetidamente o produto notável a2 – b2 = (a + b)(a – b)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-image",
+            "props": {
+              "src": "/images/herao-2.png",
+              "alt": "formula."
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Lembre-se que p= "
+              },
+              {
+                "type": "element",
+                "tag": "qed-image",
+                "props": {
+                  "src": "/images/herao-3.png",
+                  "alt": "formula."
+                },
+                "children": [
+                  
+                ]
+              },
+              {
+                "type": "text",
+                "value": ", logo"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "a +b +c = 2p"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "b + c – a = 2p – 2a = 2(p – a)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "a + b – c = 2p – 2c = 2(p – c)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "a – b + c = 2p – 2b = 2(p – b)."
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Continuando,"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Área do triângulo, A ="
+              },
+              {
+                "type": "element",
+                "tag": "qed-image",
+                "props": {
+                  "src": "/images/herao-4.png",
+                  "alt": "formula."
+                },
+                "children": [
+                  
+                ]
+              },
+              {
+                "type": "text",
+                "value": " logo, A2 = "
+              },
+              {
+                "type": "element",
+                "tag": "qed-image",
+                "props": {
+                  "src": "/images/herao-5.png",
+                  "alt": "formula."
+                },
+                "children": [
+                  
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "p",
+            "props": {
+              
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "Assim, "
+              },
+              {
+                "type": "element",
+                "tag": "qed-image",
+                "props": {
+                  "src": "/images/herao-6.png",
+                  "alt": "formula."
+                },
+                "children": [
+                  
+                ]
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "h2",
+            "props": {
+              "id": "leitura-complementar"
+            },
+            "children": [
+              {
+                "type": "element",
+                "tag": "a",
+                "props": {
+                  "ariaHidden": "true",
+                  "href": "#leitura-complementar",
+                  "tabIndex": -1
+                },
+                "children": [
+                  {
+                    "type": "element",
+                    "tag": "span",
+                    "props": {
+                      "className": [
+                        "icon",
+                        "icon-link"
+                      ]
+                    },
+                    "children": [
+                      
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "text",
+                "value": "Leitura Complementar"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-link",
+            "props": {
+              "link": "https://www.youtube.com/"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n\nHeron's formula\n\n"
+              }
+            ]
+          },
+          {
+            "type": "text",
+            "value": "\n\n\n"
+          },
+          {
+            "type": "element",
+            "tag": "qed-link",
+            "props": {
+              "link": "https://www.youtube.com/"
+            },
+            "children": [
+              {
+                "type": "text",
+                "value": "\n\nFórmula de Herón\n\n"
+              }
+            ]
+          }
+        ]
+      },
+      "dir": "/matematica/aulas",
+      "path": "/matematica/aulas/topico-06",
+      "extension": ".md",
+      "createdAt": "2020-10-29T17:05:34.576Z",
+      "updatedAt": "2020-11-05T18:40:01.027Z"
+    }
+  ]

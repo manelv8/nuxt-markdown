@@ -1,0 +1,42 @@
+backend:
+  name: bitbucket
+  repo: 'lmedesenvolvimento/qed-html'
+
+media_folder: src/static/img
+public_folder: src/static
+
+slug:
+  encoding: "ascii"
+  clean_accents: true
+  sanitize_replacement: "_"
+
+collections:
+  - name: 'math_class'
+    label: 'Aulas de matemática'
+    folder: 'src/content/matematica/aulas'
+    format: 'frontmatter'
+    create: true
+    slug: '{{subject}}-{{slug}}'
+    filter: {field: 'subject', value: 'matematica'}
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Matéria', name: 'subject', widget: 'select', options: ['matematica', 'portugues'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
+
+  - name: 'port_class'
+    label: 'Aulas de português'
+    folder: 'src/content/portugues/aulas'
+    format: 'frontmatter'
+    create: true
+    slug: '{{subject}}-{{slug}}'
+    filter: {field: 'subject', value: 'portugues'}
+    editor:
+      preview: true
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Matéria', name: 'subject', widget: 'select', options: ['matematica', 'portugues'] }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
