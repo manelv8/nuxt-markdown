@@ -18,3 +18,10 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+#docker
+```bash
+$ docker build -t nuxtjs-markdown .
+docker run -it -p 3000:3000 nuxtjs-markdown
+
+```
