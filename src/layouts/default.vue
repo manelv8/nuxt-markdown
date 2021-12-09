@@ -44,6 +44,7 @@ export default {
     console.log('aula', aula)
     console.log(articles[0].path)
     this.articles = articles
+    console.log('articles', JSON.stringify(articles, null, 2))
     this.aula = Array.isArray(aula) ? { title: 'Início' } : aula
   },
   data() {

@@ -24,7 +24,7 @@
             class="is-flex is-align-items-center pb-0"
           >
             <b-icon :icon="article.icon" class="pb-3" />
-            <div class="path-name ml-5 pb-1">{{ article.title }}</div>
+            <div class="path-name ml-5 pb-1">{{ article.slug }}</div>
           </nuxt-link>
         </li>
       </ul>

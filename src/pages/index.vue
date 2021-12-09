@@ -12,8 +12,8 @@
                 exact-active-class="sidebar-content__is-active"
                 class="is-flex is-align-items-center pb-0"
               >
-                <card :title="article.title" icon="alert-decagram">
-                  <div class="path-name ml-5 pb-1">{{ article.title }}</div>
+                <card :title="article.slug" icon="alert-decagram">
+                  <div class="path-name ml-5 pb-1">{{ article.slug }}</div>
                 </card>
               </nuxt-link>
             </div>
@@ -34,10 +34,12 @@ export default {
     Card,
   },
   async asyncData({ $content, params }) {
+    console.log('kd--->>>')
     const articles = await $content({ deep: true })
-      .only(['title', 'description', 'slug', 'path'])
-      .sortBy('slug', 'cresc')
+      // .only(['title', 'description', 'slug', 'path'])
+      // .sortBy('slug', 'cresc')
       .fetch()
+    console.log('arit', JSON.stringify(articles, null, 2))
     return {
       articles,
     }
